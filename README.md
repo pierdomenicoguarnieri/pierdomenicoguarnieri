@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,sass,mysql,php,laravel,c,cs,matlab,nodejs,vscode,github,netlify,blender,ps,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,sass,mysql,php,laravel,cpp,cs,matlab,nodejs,vscode,github,netlify,blender,ps,linux)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
