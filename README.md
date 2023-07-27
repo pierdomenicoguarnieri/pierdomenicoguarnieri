@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, React, TypeScript, GraphQL, Python**
 
-- 👨‍💻 All of my projects are available at [WORK IN PROGRESS](WORK IN PROGRESS)
+- 👨‍💻 All of my projects are available [here](https://pierdomenico-guarnieri.netlify.app/))
 
 - 📫 How to reach me **dev.pierdoguarnieri@gmail.com**
 
