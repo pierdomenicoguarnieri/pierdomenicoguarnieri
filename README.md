@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierdomenico Guarnieri</h1>
 <h3 align="center">A Jr. Full Stack Web Developer from Bari, Italy</h3>
 
-- 🌱 I’m currently learning **Angular, React, TypeScript, GraphQL, Python**
+- 🌱 I’m currently learning **Yii2, TypeScript**
 
 - 👨‍💻 All of my projects are available [here](https://pierdomenico-guarnieri.netlify.app/)
 
