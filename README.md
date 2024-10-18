@@ -7,28 +7,30 @@
 
 - 📫 How to reach me **dev.pierdoguarnieri@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">🔧 Languages and Tools:</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,sass,mysql,php,laravel,cpp,cs,matlab,nodejs,vscode,visualstudio,md,git,github,docker,netlify,cloudflare,blender,ps,linux)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/pierdomenico-guarnieri-820740263/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://instagram.com/pierdo__" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-<a href="https://twitter.com/pierdev_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
+<h3 align="left">🌐 Socials:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierdomenico-guarnieri-820740263) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=white&color=dd2a7b)](https://instagram.com/pierdo__) [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white&color=000000)](https://twitter.com/pierdev_)
 
 ---
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pierdomenicoguarnieri&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  </a>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pierdomenicoguarnieri&label=Profile%20views&color=0e75b6&style=flat" alt="pierdomenicoguarnieri" /> </p>
+<span>
+  <img height=175 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pierdomenicoguarnieri&show_icons=true&theme=dark&locale=en&layout=donut&hide=blade"/>
+</span>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pierdomenicoguarnieri&show_icons=true&theme=dark&locale=en&layout=compact" alt="pierdomenicoguarnieri" /></p>
+<span>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=pierdomenicoguarnieri&show_icons=true&theme=dark&locale=en&rank_icon=github&include_all_commits=true&custom_title=Stats&show=prs_merged"/>
+</span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierdomenicoguarnieri&show_icons=true&theme=dark&locale=en" alt="pierdomenicoguarnieri" /></p>
-
-
+<span>
+  <img height=57 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=pierdoguarnieri&layout=compact&theme=dark"/>
+</span>
