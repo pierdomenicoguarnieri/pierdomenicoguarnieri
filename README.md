@@ -34,5 +34,5 @@
 ---
 
 <span>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pierdoguarnieri&layout=compact&theme=dark"/>
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pierdoguarnieri&layout=compact&theme=dark"/>
 </span>
