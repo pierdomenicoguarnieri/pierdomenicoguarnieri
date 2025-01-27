@@ -15,6 +15,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierdomenico-guarnieri-820740263) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=white&color=dd2a7b)](https://instagram.com/pierdo__) [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white&color=000000)](https://twitter.com/pierdev_)
 
+<h3 align="left">❤ Support:</h3>
+
+<p>
+  <a href="https://www.buymeacoffee.com/pierdo">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pierdo" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
