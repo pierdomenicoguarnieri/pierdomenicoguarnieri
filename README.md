@@ -18,9 +18,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pierdomenicoguarnieri&label=Profile%20Views&color=12&icon=5&pretty=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=pierdomenicoguarnieri&label=Profile%20views&color=0e75b6&style=flat" alt="pierdomenicoguarnieri" />
 </p>
 
 <span>
