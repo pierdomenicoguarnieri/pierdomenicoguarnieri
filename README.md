@@ -17,11 +17,13 @@
 
 <h3 align="left">❤ Support:</h3>
 
-<p>
-  <a href="https://www.buymeacoffee.com/pierdo">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pierdo" />
-  </a>
-</p>
+<a href="https://www.buymeacoffee.com/pierdo">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="LinkedIn" width="200" height="auto">
+</a>
+
+<a href="https://ko-fi.com/pierdom">
+  <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="auto" width="200" alt="pierdom" />
+</a>
 
 ---
 
