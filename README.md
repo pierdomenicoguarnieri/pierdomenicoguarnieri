@@ -9,7 +9,7 @@
 
 <h3 align="left">🔧 Languages and Tools:</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,sass,mysql,php,laravel,nodejs,vscode,visualstudio,md,git,github,docker,netlify,cloudflare,ps,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,sass,mysql,sqlite,php,laravel,py,nodejs,vscode,visualstudio,md,git,github,azure,docker,netlify,cloudflare,ps,linux,arch,ubuntu)](https://skillicons.dev)
 
 <h3 align="left">🌐 Socials:</h3>
 
