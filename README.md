@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available [here](https://pierdomenico-guarnieri.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://pierdo.dev/)
 
 - 📫 How to reach me **dev.pierdoguarnieri@gmail.com**
 
